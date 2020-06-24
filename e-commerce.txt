@@ -1,0 +1,28 @@
+                   Création le site e-commerce 
+1:téléchargement Installation wordPress.
+
+2:Création de la base de données. 
+
+3:Installation  thème Astra.
+
+4:Installation  plugin WooCommerce.
+
+5:Configurez des catégories et des produits(titre, image, prix)
+$_chenger(titre, image, prix) : Produit -->tous les produits.
+
+6:Création des utilisateurs avec différent rôles (clients et administrateurs) .
+
+7: Installation les plugins (SEO, multilingue et RGPD):
+ $_SEO  : extensions --> ajouter --> recherche  yoast SEO --> installer
+--> active.
+
+$_multilingue :  extensions --> ajouter --> recherche Weglot Translate
+ --> installer --> active --> inscription pour le site weglote 
+--> copie le lien weglote --> message email--> coller le lien pour wordpresse 
+--> choixi Original language + Destination languages
+--> clicke booton enregistrer les modification.
+
+$_RGPD : extensions --> ajouter --> recherche cookie Consent
+--> installer GDPR Cookie Consent Banner --> active 
+--> Réglages --> Cookie Constent .
+
